@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { TransactionContext } from './TransactionContext';
+import { TransactionsProvider } from './TransactionContext';
 import { Header } from "./components/Header";
 import { Dashboard } from "./components/Dashboard";
 import { NewTransactionModal } from './components/NewTransactionModal';
@@ -18,7 +18,7 @@ export function App() {
   }
   
   return (
-    <TransactionContext.Provider value={[]}>
+    <TransactionsProvider>
       <Header 
         onOpenNewtransactionModal={handleOpenNewTransactionModal}
       />
@@ -31,6 +31,6 @@ export function App() {
       />
 
       <GlobalStyle />
-    </TransactionContext.Provider>
+    </TransactionsProvider>
   );
 }
