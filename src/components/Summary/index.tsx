@@ -1,5 +1,5 @@
 import { useTransactions } from '../../hooks/useTransactions';
-import totalImg from '../../assets/total.svg'
+import totalImg from '../../assets/total2.svg'
 import incomeImg from '../../assets/income.svg'
 import outcomeImg from '../../assets/outcome.svg'
 
