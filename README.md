@@ -2,7 +2,7 @@
     <img height="80" src=".github/logo.svg" alt="Dtmoney" />
 </h1>
 
-![cover](.github/screen.png?style=flat)
+![cover](.github/inicio.png?style=flat)
 
 
 ## 💻 Project
