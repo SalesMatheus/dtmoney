@@ -48,6 +48,11 @@ button[type="submit"] {
     }
 }
 
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    
+}
+
 `;
 
 export const TransactionTypeContainer = styled.div`

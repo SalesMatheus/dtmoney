@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img height="80" src=".github/logo.svg" alt="Dtmoney" />
+    <img height="80" src=".github/logo2.svg" alt="Dtmoney" />
 </h1>
 
-![cover](.github/inicio.png?style=flat)
+![cover](.github/screen.png?style=flat)
 
 
 ## 💻 Project
