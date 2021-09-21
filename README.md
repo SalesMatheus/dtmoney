@@ -15,7 +15,7 @@ This applications is an personal finance manager.
 
 -   [X] Table with personal finance data with name, amount, category and  date.
 -   [X] Summary cards with incomes, outcomes and total.
--   [X] Button that Create a new transaction using a beautiful modal.
+-   [X] Button that Create a new transaction.
 
 
 
